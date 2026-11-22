@@ -1,6 +1,3 @@
-# BHM_Gnioki
-Zadanie techniczne do testu eliminacyjnego BHM zespołu Gnioki.
-
 # pcapreport
 
 Narzędzie w C dla Linuksa, które analizuje ruch TCP i UDP z plików `.pcap` / `.pcapng`

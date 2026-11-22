@@ -1,0 +1,4 @@
+#ifndef PCAPREPORT_VERSION_H
+#define PCAPREPORT_VERSION_H
+#define VERSION_STR "1.0.0"
+#endif
